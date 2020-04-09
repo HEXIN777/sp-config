@@ -1,7 +1,7 @@
 spring:
   application:
     name: zuul
-  clound:
+  cloud:
     config:
       override-none: true
     

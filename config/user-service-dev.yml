@@ -5,7 +5,7 @@ sp:
 spring:
   application:
     name: user-service
-  clound:
+  cloud:
     config:
       override-none: true
     
