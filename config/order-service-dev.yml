@@ -1,6 +1,9 @@
 spring:
   application:
     name: order-service
+  clound:
+    config:
+      override-none: true
     
 server:
   port: 8201

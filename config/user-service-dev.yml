@@ -5,6 +5,9 @@ sp:
 spring:
   application:
     name: user-service
+  clound:
+    config:
+      override-none: true
     
 server:
   port: 8101
